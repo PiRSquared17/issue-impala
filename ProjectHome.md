@@ -1,0 +1,1 @@
+Issue Impala is a kickass issue tracker – an awesome set of tools designed to help classify, triage, and document issues that affect products.
